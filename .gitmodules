@@ -1,0 +1,3 @@
+[submodule "Vendor/ObjCHTML"]
+	path = Vendor/ObjCHTML
+	url = git://github.com/zootreeves/Objective-C-HMTL-Parser.git
