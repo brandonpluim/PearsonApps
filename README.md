@@ -1,4 +1,4 @@
-<img src="https://github.com/derrh/PearsonApps/master/Screenshot.png" alt="PearsonApps" title="PearsonApps" style="display:block; margin: 10px auto 30px auto;" class="center">
+<img src="https://raw.github.com/derrh/PearsonApps/master/Screenshot.png" alt="PearsonApps" title="PearsonApps" style="display:block; margin: 10px auto 30px auto;" class="center">
 
 PearsonApps
 ===========
